@@ -14,6 +14,11 @@ Includes a print log of each city as it's being processed with the city number a
 Saves both a CSV of all data retrieved and png images for each scatter plot.
 
 My Findings:
-One of the most notable findings, as demonstrated in my City Latitude vs. Temperature chart, is that the closer a city is located to 0 in latitude, the higher the temperature will be.
-City Latitude vs. Cloudiness indicated that there is no relation between a city's geographic location and its percentage of cloudiness.
-City Latitude vs. Humidity showed a slight concentration in high humidity percentage and a higher number of latitude.
+1. The closer a city is located to 0 in latitude, the higher the temperature will be. 
+        #City Latitude vs. Temperature
+    
+2. There is no relation between a city's geographic location and its percentage of cloudiness. 
+        #City Latitude vs. Cloudiness
+    
+3. A slight concentration in high humidity percentage and a higher number of latitude.
+        #City Latitude vs. Humidity
